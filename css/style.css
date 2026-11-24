@@ -1,3 +1,4 @@
+/*Color Palette */
 :root {
     --cream: #F5F1E8;
     --sage: #A8B5A0;
@@ -5,10 +6,12 @@
     --charcoal: #333735;
 }
 
-{
+
+/* Reset & Base Styles */
+*{
     margin: 0;
     padding: 0;
-    box-sizing: border box;
+    box-sizing: border-box;
 }
 
 html {
